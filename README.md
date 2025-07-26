@@ -1,5 +1,5 @@
 # SPCRFormer:  Spatial Geometric Cue-Aware  Prosodic Relationship Representation for Speech Emotion Recognition via  Transformers
-## [email] 
+## [Email] 
 
 hailiu0204@ccnu.edu.cn
 ## News
