@@ -1,4 +1,4 @@
-<img width="315" height="363" alt="2" src="https://github.com/user-attachments/assets/e56d50ef-99ed-483b-a260-46c694679929" /># SPCRFormer:  Spatial Geometric Cue-Aware  Prosodic Relationship Representation for Speech Emotion Recognition via  Transformers
+# SPCRFormer:  Spatial Geometric Cue-Aware  Prosodic Relationship Representation for Speech Emotion Recognition via  Transformers
 
 ## Code
 
