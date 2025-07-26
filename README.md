@@ -8,7 +8,7 @@ hailiu0204@ccnu.edu.cn
 
 ## Results
 
-<img width="320" height="425" alt="1" src="https://github.com/user-attachments/assets/8efb00ff-fe24-445c-b407-e860706036ff" />
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/8efb00ff-fe24-445c-b407-e860706036ff" />
 
 
 <img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/f7193b12-497c-4596-8824-e9c4346adf27" />
