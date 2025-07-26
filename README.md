@@ -11,8 +11,8 @@ hailiu0204@ccnu.edu.cn
 <img width="1024" alt="image" src="https://github.com/user-attachments/assets/8efb00ff-fe24-445c-b407-e860706036ff" />
 
 
-<img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/f7193b12-497c-4596-8824-e9c4346adf27" />
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/f7193b12-497c-4596-8824-e9c4346adf27" />
 
-<img width="1478" height="846" alt="image" src="https://github.com/user-attachments/assets/c696b27d-0365-4c92-b9d2-9584e004dba8" />
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c696b27d-0365-4c92-b9d2-9584e004dba8" />
 
 
